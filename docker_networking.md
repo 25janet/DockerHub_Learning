@@ -1,7 +1,7 @@
 
 ---
 
-# 🐳 Docker Networking & Storage Cheat Sheet
+# 🐳 Docker Networking 
 
 A guide to understanding how Docker containers communicate with each other, the host, and the internet, as well as how they handle data.
 
